@@ -1,0 +1,158 @@
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.863), rgba(7, 7, 8, 0.87)), url("asset/background.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+* {
+    font-family: 'Fredoka', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 25px;
+}
+
+h1 {
+    text-align: left;
+    color: whitesmoke;
+    position: relative;
+    right: -400px;
+    bottom: -20;
+    size: 10000 px;
+}
+
+img {
+    width: 300;
+    height: 150;
+    position: relative;
+    bottom: -50;
+    right: -790;
+    bottom: -100;
+    border-radius: 25px;
+}
+
+#intro {
+    border-radius: 13px;
+    background: grey;
+    padding: 25;
+    width: 500;
+    height: 4;
+    font-size: 23;
+    
+    
+    position: relative;
+    bottom: -120;
+    right: -680;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#identity {
+
+    color: white;
+    font-size: 18px;
+    left: -57;
+    position: relative;
+    text-align: center;
+    bottom: -95
+    
+}
+
+.newname {
+
+    color: white;
+    left: 680;
+    position: relative;
+    text-align: justify;
+    bottom: -122;
+
+}
+.newname p {
+
+    position: relative;
+    font-size: 20;
+    text-align: justify;
+    bottom: 20;
+}
+
+.works {
+
+    color: white;
+    position: relative;
+    text-align: justify;
+    left: 680;
+    bottom: -110;
+
+}
+
+.works p {
+
+    font-size: 20;
+
+}
+
+.skillsets {
+
+    color: white;
+    position: relative;
+    text-align: justify;
+    left: 680;
+    bottom: -120;
+}
+
+.skillsets p {
+
+    font-size: 20;
+    
+}
+
+.journey {
+
+    color: white;
+    position: relative;
+    text-align: justify;
+    left: 680;
+    bottom: -120;
+
+}
+.journey p {
+
+    font-size: 20;
+    text-align: justify;
+    text-align-last: left;
+    
+}
+
+.hobbies {
+
+    color: white;
+    position: relative;
+    text-align: justify;
+    left: 680;
+    bottom: -120;
+}
+.hobbies p {
+
+    font-size: 20;
+    text-align: justify;
+    text-align-last: left;
+}
+
+.social {
+
+    color: white;
+    position: relative;
+    text-align: justify;
+    left: 680;
+    bottom: -120;
+}
+.social p {
+
+    font-size: 20;
+}
+.social a {
+
+    font-size: 20;
+}
